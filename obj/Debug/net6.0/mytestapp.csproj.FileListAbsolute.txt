@@ -1,0 +1,15 @@
+C:\Users\MAHMOOD\mytestapp\bin\Debug\net6.0\mytestapp.exe
+C:\Users\MAHMOOD\mytestapp\bin\Debug\net6.0\mytestapp.deps.json
+C:\Users\MAHMOOD\mytestapp\bin\Debug\net6.0\mytestapp.runtimeconfig.json
+C:\Users\MAHMOOD\mytestapp\bin\Debug\net6.0\mytestapp.dll
+C:\Users\MAHMOOD\mytestapp\bin\Debug\net6.0\mytestapp.pdb
+C:\Users\MAHMOOD\mytestapp\obj\Debug\net6.0\mytestapp.csproj.AssemblyReference.cache
+C:\Users\MAHMOOD\mytestapp\obj\Debug\net6.0\mytestapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAHMOOD\mytestapp\obj\Debug\net6.0\mytestapp.AssemblyInfoInputs.cache
+C:\Users\MAHMOOD\mytestapp\obj\Debug\net6.0\mytestapp.AssemblyInfo.cs
+C:\Users\MAHMOOD\mytestapp\obj\Debug\net6.0\mytestapp.csproj.CoreCompileInputs.cache
+C:\Users\MAHMOOD\mytestapp\obj\Debug\net6.0\mytestapp.dll
+C:\Users\MAHMOOD\mytestapp\obj\Debug\net6.0\refint\mytestapp.dll
+C:\Users\MAHMOOD\mytestapp\obj\Debug\net6.0\mytestapp.pdb
+C:\Users\MAHMOOD\mytestapp\obj\Debug\net6.0\mytestapp.genruntimeconfig.cache
+C:\Users\MAHMOOD\mytestapp\obj\Debug\net6.0\ref\mytestapp.dll
